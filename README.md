@@ -1,3 +1,3 @@
 # progdist_projet
-Pojet final de l'UE "Programamtion Distribuée". Développement de microservices web.
-Java, Docker
+Pojet final de l'UE "Programmation Distribuée". 
+Développement de micro-services web, java, Docker
